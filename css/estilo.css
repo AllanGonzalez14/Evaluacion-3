@@ -1,0 +1,36 @@
+body {
+    
+    background-image: url(img/des.jpg);
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 100px;
+    
+}
+
+h2 {
+    color: #fff;
+}
+label {
+    color: #ddd
+}
+
+
+
+.container {
+    width: 800px;
+    padding: 25px;
+    margin: auto;
+    border-radius: 5%;
+    border: 4px solid #e56c0d;
+}
+
+.container h2 {
+    text-align: center;
+}
+
+.container li {
+    color: #E1E1E1 
+} 
